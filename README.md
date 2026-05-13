@@ -91,7 +91,7 @@ Want something completely unique? Use AI to build it.
 ## Project Structure
 
 ```
-v-day/
+coffee-date/
 ├── index.html       # Main page — "Will you be my Valentine?"
 ├── yes.html         # Celebration page after they say Yes
 ├── script.js        # Main page logic (button growth, GIF swaps, toasts)
